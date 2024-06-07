@@ -1,5 +1,5 @@
 /** 
- * The HelloWorldApp class implements an application that simply prints "Hello World" to standard output.
+ * The DevOpsExample class implements an application that simply prints "Welcome to DevOps" to standard output.
  */
 public class DevOpsExample {
   public static void main(String[] args) {
